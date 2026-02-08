@@ -1,5 +1,4 @@
-[![Banner Image]
-(https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWd6b3k4cXJ0Nzg5NnA3cW9zb2Z2ZGVkeDdwNTIzNjcydHg2ejlyZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.gif)](https://github.com/sudeev157-afk)
+[![Banner Image](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWd6b3k4cXJ0Nzg5NnA3cW9zb2Z2ZGVkeDdwNTIzNjcydHg2ejlyZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.gif)](https://github.com/sudeev157-afk)
 
 
 <h1 align="center">
