@@ -37,7 +37,7 @@ src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 ---
 
 ### 📫 How to Reach Me
-- 📧 Email: **sudeev157@gamil.com**
+- 📧 Email: **sudeev157@gmail.com**
 - 💼 LinkedIn: **https://www.linkedin.com/in/sudip-bhandari-sb555/**
 
 ---
