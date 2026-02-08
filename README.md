@@ -73,10 +73,6 @@ height="30" width="40" />
 
 ### 📈 GitHub Analytics
 
-<p>
-  <img align="left"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudeev157-afk&layout=compact&theme=tokyonight" />
-</p>
 
 <p>
   <img align="center"
