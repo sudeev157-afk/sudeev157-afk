@@ -12,11 +12,6 @@ Turning data into insights • Driving decisions through data 📊
 <img align="right" alt="Data Analysis" width="400"
 src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat"
-  alt="profile views" />
-</p>
-
 ---
 
 ### 🚀 About Me
