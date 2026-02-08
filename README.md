@@ -77,19 +77,20 @@ height="30" width="40" />
 ---
 
 ### 📈 GitHub Analytics
+
 <p>
-<img align="left"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudeev157-afk&layout=compact&theme=tokyonight" />
+  <img align="left"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudeev157-afk&layout=compact&theme=tokyonight" />
 </p>
 
 <p>
-<img align="center"
-src="https://github-readme-stats.vercel.app/api?username=sudeev157-afk&show_icons=true&theme=tokyonight" />
+  <img align="center"
+  src="https://github-readme-stats.vercel.app/api?username=sudeev157-afk&show_icons=true&theme=tokyonight" />
 </p>
 
 <p>
-<img align="center"
-src="https://github-readme-streak-stats.herokuapp.com/?user=Ysudeev157-afk&theme=tokyonight" />
+  <img align="center"
+  src="https://github-readme-streak-stats.herokuapp.com/?user=sudeev157-afk&theme=tokyonight" />
 </p>
 
 ---
